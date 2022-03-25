@@ -68,10 +68,10 @@
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/karimsaraipour" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> &ensp;&ensp;&ensp;
 </a>
 <a href="https://linkedin.com/in/karimsara" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> &ensp;&ensp;&ensp;
 </a>
 <a href="https://medium.com/@karimsaraipour" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
@@ -89,7 +89,7 @@
 
 
 ## Recent Blog Posts  
-◦ [GCN with TigerGraph and PyG ](https://medium.com/@karimsaraipour/gcn-with-tigergraph-and-pyg-a4ebff437d8a)
+- [GCN with TigerGraph and PyG ](https://medium.com/@karimsaraipour/gcn-with-tigergraph-and-pyg-a4ebff437d8a)
 <br/>  
 
   
