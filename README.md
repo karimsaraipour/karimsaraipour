@@ -7,7 +7,7 @@
 
 <div> 
 <h3> 📚 I’m currently working on my B.S. of Computer Science at UCLA </h3>
-<h3> ⎌ I’m currently learning PyTorch Geometric  </h3>
+<h3> 🗽 I’m currently learning PyTorch Geometric  </h3>
 <h3> ❓ Ask me about anything related to Python, C++, Machine Learning </h3>
 <h3> 🕺 Fun fact: I dance!  </h3>
 </div>
