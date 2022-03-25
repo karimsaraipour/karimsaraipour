@@ -6,10 +6,10 @@
 ### <div align="left"><h2>Yo! I'm Karim. Student and Software Engineer 👨‍💻 🚀</h2></div>  
 
 <div> 
-<h3>📚 I’m currently working on my B.S. of Computer Science at UCLA </h3>
-<h3>፨ I’m currently learning PyTorch Geometric  </h3>
-<h3>❓ Ask me about anything related to Python, C++, Machine Learning </h3>
-<h3>🕺 Fun fact: I dance!  </h3>
+<h3> 📚 I’m currently working on my B.S. of Computer Science at UCLA </h3>
+<h3> ⎌ I’m currently learning PyTorch Geometric  </h3>
+<h3> ❓ Ask me about anything related to Python, C++, Machine Learning </h3>
+<h3> 🕺 Fun fact: I dance!  </h3>
 </div>
   
 
@@ -73,7 +73,7 @@
 <a href="https://linkedin.com/in/karimsara" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/karimsaraipour" target="_blank">
+<a href="https://medium.com/@karimsaraipour" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
