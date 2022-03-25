@@ -8,18 +8,39 @@
 <br/>
   
 
+<div align="center"> 
+
+<table><tr><td valign="top" width="50%">
 
 
-- 📚 I’m currently working on my B.S. of Computer Science at UCLA  
+<div>  
+
+📚 I’m currently working on my B.S. of Computer Science at UCLA  
+፨ I’m currently learning PyTorch Geometric  
+
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+<div>  
+
+❓ Ask me about anything related to Python, C++, Machine Learning  
+🕺 Fun fact: I dance!  
+
+</div>
+
+</td></tr></table>  
+
+</div>
+
+
+
+
   
 
-- 🌱 I’m currently learning PyTorch Geometric  
-  
 
-- ❓ Ask me about anything related to Python, C++, Machine Learning  
-  
-
-- 🕺 Fun fact: I dance!  
 
 <br/>  
 
@@ -98,7 +119,7 @@
 
 
 ## Recent Blog Posts  
-- [GCN with TigerGraph and PyG ](https://medium.com/@karimsaraipour/gcn-with-tigergraph-and-pyg-a4ebff437d8a)
+◦ [GCN with TigerGraph and PyG ](https://medium.com/@karimsaraipour/gcn-with-tigergraph-and-pyg-a4ebff437d8a)
 <br/>  
 
   
@@ -114,4 +135,4 @@
 
 
 
-<div display="None" align="center">Base Template generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div display="None" align="center">Base Template and Images generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
