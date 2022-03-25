@@ -3,41 +3,20 @@
 </div>  
   
 
-### <div align="center"><h2>Yo! I'm Karim. Student and Software Engineer 👨‍💻 🚀</h2></div>  
+### <div align="left"><h2>Yo! I'm Karim. Student and Software Engineer 👨‍💻 🚀</h2></div>  
 
+<br/>
 <br/>
   
 
-<div align="center"> 
-
-<table><tr><td valign="top" width="50%">
 
 
-<div>  
-
-📚 I’m currently working on my B.S. of Computer Science at UCLA  
-፨ I’m currently learning PyTorch Geometric  
-
+<div> 
+<h3>📚 I’m currently working on my B.S. of Computer Science at UCLA </h3>
+<h3>፨ I’m currently learning PyTorch Geometric  </h3>
+<h3>❓ Ask me about anything related to Python, C++, Machine Learning </h3>
+<h3>🕺 Fun fact: I dance!  </h3>
 </div>
-
-</td><td valign="top" width="50%">
-
-
-
-<div>  
-
-❓ Ask me about anything related to Python, C++, Machine Learning  
-🕺 Fun fact: I dance!  
-
-</div>
-
-</td></tr></table>  
-
-</div>
-
-
-
-
   
 
 
@@ -46,11 +25,11 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 
-<div align="center"><h3>Languages</h3></div>
-<div align="center">  
+
+<div align="left"><h3>Languages</h3></div>
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
@@ -63,11 +42,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
 
 
-<div align="center"><h3>Tools/Technologies</h3></div>
-<div align="center">  
+
+<div align="left"><h3>Tools/Technologies</h3></div>
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
@@ -79,24 +58,21 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
 
 
-<div align="center"><h3>Other Skills</h3></div>
-<div align="center">  
+<div align="left"><h3>Other Skills</h3></div>
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
 </div>
 
-</td></tr></table>  
-
 <br/>  
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/karimsaraipour" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -113,7 +89,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=karimsaraipour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=karimsaraipour&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -134,5 +110,3 @@
 <br />
 
 
-
-<div display="None" align="center">Base Template and Images generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
