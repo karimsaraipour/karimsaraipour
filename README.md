@@ -1,13 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="left"><h2>Yo! I'm Karim. Student and Software Engineer 👨‍💻 🚀</h2></div>  
+### <div align="left"><h2>Yo! I'm Karim. Student and Engineer 👨‍💻 🚀</h2></div>  
 
 <div> 
-<h3> 📚 I’m currently working on my B.S. of Computer Science at UCLA </h3>
-<h3> 🗽 I’m currently learning PyTorch Geometric  </h3>
+<h3> 📚 I’m currently working on my M.S. of Computer Science at UCLA </h3>
 <h3> ❓ Ask me about anything related to Python, C++, Machine Learning </h3>
 <h3> 🕺 Fun fact: I dance!  </h3>
 </div>
