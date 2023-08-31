@@ -80,11 +80,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=karimsaraipour&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
-
-<br/>  
-
 
 ## Recent Blog Posts  
 - [GCN with TigerGraph and PyG ](https://medium.com/@karimsaraipour/gcn-with-tigergraph-and-pyg-a4ebff437d8a)
